@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://juniz.netlify.app',
+  url: 'https://radiant-gingersnap-812ffd.netlify.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -77,7 +77,6 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/archive', laebl: 'Archive', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
